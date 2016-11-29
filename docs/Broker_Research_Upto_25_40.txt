@@ -9,20 +9,19 @@ Buy Sona Koyo Steering Systems; target of Rs 80: Dynamic Levels 57 DDD 48	46	47 
 Accumulate Bajaj Finance; target of Rs 1202: KR Choksey  879 DDD	73	77	75  13-58 OS  LB
 Buy Biocon; target of Rs 1200: Dolat Capital 880 DDD 			71	72	71 40-40 lighlly sold LB
 Buy Piramal Enterprises; target of Rs 2400: Dynamic Levels 1650 UDD 	66	65	66 29-48 MB LS OS and recovered
-Buy Jubilant FoodWorks; target of Rs 1205: Dolat Capital	889 DDD 18	52	31
-Buy Emami; target of Rs 1425: Anand Rathi 1097 UDD 			43	52	47
-Accumulate M&M Financial Services; target of Rs 373: Prabhudas 289 DDD 	63	50	58
-Buy Cholamandalam Finance; target of Rs 1335: KR Choksey 960 DDD 	72	75	73	
-Buy Capital First; target of Rs 760: Axis Direct			68	83	74
-Buy Star Ferro & Cement; target of Rs 130: Centrum	97 DDD		36	61	45	
-Buy Kajaria Ceramics; target of Rs 740: Dynamic Levels 520 UDD 		54	70	60
-Buy GATI; target of Rs 165: ICICI Direct	120 DDD 		18	71	38
-Accumulate Supreme Industries; target of Rs 1080: Yes Securities 845 DDD 71	45	61	
-Buy Prestige Estates Projects; target of Rs 233: Axis Direct 155 DDD 	20	58	34
-Buy Suprajit Engineering; target of Rs 249: Axis Direct	185 DDD 	67	77	71
-Buy Techno Electric; target of Rs 445: Centrum	297 DDD 		42	77	55
-Buy Castrol India; target of Rs 567: Dolat Capital 375 DDD 		47	55	50
-Buy Sadbhav Engineering; target of Rs 351: Prabhudas Lilladher 270 DDD 	22	56	35
+Buy Jubilant FoodWorks; target of Rs 1205: Dolat Capital	889 DDD 18	52	31 10-60 OS MB LS
+Buy Emami; target of Rs 1425: Anand Rathi 1097 UDD 			43	52	47 4-67 OS SlightLb
+Accumulate M&M Financial Services; target of Rs 373: Prabhudas 289 DDD 	63	50	58 17-65 MB LS
+Buy Cholamandalam Finance; target of Rs 1335: KR Choksey 960 DDD 	72	75	73 15-54 MB LS	
+Buy Capital First; target of Rs 760: Axis Direct			68	83	74 17-65 MB LS
+Buy Star Ferro & Cement; target of Rs 130: Centrum	97 DDD		36	61	45  15-58 MB LS		
+Buy Kajaria Ceramics; target of Rs 740: Dynamic Levels 520 UDD 		54	70	60 13-63 MB LS
+Buy GATI; target of Rs 165: ICICI Direct	120 DDD 		18	71	38 6-75 ALL SELL and OS
+Accumulate Supreme Industries; target of Rs 1080: Yes Securities 845 DDD 71	45	61	 4-81 ALL SELL and OS
+Buy Suprajit Engineering; target of Rs 249: Axis Direct	185 DDD 	67	77	71  13-65 OS  LB
+Buy Techno Electric; target of Rs 445: Centrum	297 DDD 		42	77	55 15-65 OS  SB MS LS
+Buy Castrol India; target of Rs 567: Dolat Capital 375 DDD 		47	55	50 13-69 OS LB
+Buy Sadbhav Engineering; target of Rs 351: Prabhudas Lilladher 270 DDD 	22	56	35 19-67 SB
 
 
 
