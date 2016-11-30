@@ -2,31 +2,29 @@
 15-73 ALL SELL
 only BSE OS SB/MB LS
 	
-Buy Banco Products; target of Rs 270: Dynamic Levels	182 UDD 	65	56	62  U-D=21-58 LB ==>  
-Buy Muthoot Finance; target of Rs 420: Dynamic Levels 285 DDD		71	68	70   4-85 ALL SEEL NO BUY
-Buy Dalmia Bharat; target of Rs 2384: Motilal Oswal 1588 DDD 		73	84	77  10-73 OS LB
-Buy Sona Koyo Steering Systems; target of Rs 80: Dynamic Levels 57 DDD 48	46	47 23-58 LB
-Accumulate Bajaj Finance; target of Rs 1202: KR Choksey  879 DDD	73	77	75  13-58 OS  LB
-Buy Biocon; target of Rs 1200: Dolat Capital 880 DDD 			71	72	71 40-40 lighlly sold LB
-Buy Piramal Enterprises; target of Rs 2400: Dynamic Levels 1650 UDD 	66	65	66 29-48 MB LS OS and recovered
-Buy Jubilant FoodWorks; target of Rs 1205: Dolat Capital	889 DDD 18	52	31 10-60 OS MB LS
-Buy Emami; target of Rs 1425: Anand Rathi 1097 UDD 			43	52	47 4-67 OS SlightLb
-Accumulate M&M Financial Services; target of Rs 373: Prabhudas 289 DDD 	63	50	58 17-65 MB LS
-Buy Cholamandalam Finance; target of Rs 1335: KR Choksey 960 DDD 	72	75	73 15-54 MB LS	
-Buy Capital First; target of Rs 760: Axis Direct			68	83	74 17-65 MB LS
+Buy Banco Products; target of Rs 270: Dynamic Levels	182 UDD 	65	56	62  U-D=21-58 LB ==>   PGGOOD
+Buy Muthoot Finance; target of Rs 420: Dynamic Levels 285 DDD		71	68	70   4-85 ALL SEEL NO BUY  PG Good
+Buy Dalmia Bharat; target of Rs 2384: Motilal Oswal 1588 DDD 		73	84	77  10-73 OS LB -->PG V Good 
+Buy Sona Koyo Steering Systems; target of Rs 80: Dynamic Levels 57 DDD 48	46	47 23-58 LB -->continuous profits but sharp decline in profits
+Accumulate Bajaj Finance; target of Rs 1202: KR Choksey  879 DDD	73	77	75  13-58 OS  LB --> PG VG
+Buy Biocon; target of Rs 1200: Dolat Capital 880 DDD 			71	72	71 40-40 lighlly sold LB  PG VVG
+Buy Piramal Enterprises; target of Rs 2400: Dynamic Levels 1650 UDD 	66	65	66 29-48 MB LS OS and recovered --> PG GOOD
+Buy Jubilant FoodWorks; target of Rs 1205: Dolat Capital	889 DDD 18	52	31 10-60 OS MB LS --> PG VGOOD
+Buy Emami; target of Rs 1425: Anand Rathi 1097 UDD 			43	52	47 4-67 OS SlightLb PG GOOD
+Accumulate M&M Financial Services; target of Rs 373: Prabhudas 289 DDD 	63	50	58 17-65 MB LS PG V good but slight decline in profits
+Buy Cholamandalam Finance; target of Rs 1335: KR Choksey 960 DDD 	72	75	73 15-54 MB LS	PG Good
+Buy Capital First; target of Rs 760: Axis Direct			68	83	74 17-65 MB LS PG Good
 Buy Star Ferro & Cement; target of Rs 130: Centrum	97 DDD		36	61	45  15-58 MB LS		
-Buy Kajaria Ceramics; target of Rs 740: Dynamic Levels 520 UDD 		54	70	60 13-63 MB LS
-Buy GATI; target of Rs 165: ICICI Direct	120 DDD 		18	71	38 6-75 ALL SELL and OS
-Accumulate Supreme Industries; target of Rs 1080: Yes Securities 845 DDD 71	45	61	 4-81 ALL SELL and OS
-Buy Suprajit Engineering; target of Rs 249: Axis Direct	185 DDD 	67	77	71  13-65 OS  LB
-Buy Techno Electric; target of Rs 445: Centrum	297 DDD 		42	77	55 15-65 OS  SB MS LS
-Buy Castrol India; target of Rs 567: Dolat Capital 375 DDD 		47	55	50 13-69 OS LB
-Buy Sadbhav Engineering; target of Rs 351: Prabhudas Lilladher 270 DDD 	22	56	35 19-67 SB
+Buy Kajaria Ceramics; target of Rs 740: Dynamic Levels 520 UDD 		54	70	60 13-63 MB LS   PG V good
+Buy GATI; target of Rs 165: ICICI Direct	120 DDD 		18	71	38 6-75 ALL SELL and OS PG OK slight decline in profits from YOY
+Accumulate Supreme Industries; target of Rs 1080: Yes Securities 845 DDD 71	45	61	 4-81 ALL SELL and OS PG good sligtest decline
+Buy Suprajit Engineering; target of Rs 249: Axis Direct	185 DDD 	67	77	71  13-65 OS  LB  PG Good
+Buy Techno Electric; target of Rs 445: Centrum	297 DDD 		42	77	55 15-65 OS  SB MS LS PG V.Good
+Buy Castrol India; target of Rs 567: Dolat Capital 375 DDD 		47	55	50 13-69 OS LB PG VV Good
+Buy Sadbhav Engineering; target of Rs 351: Prabhudas Lilladher 270 DDD 	22	56	35 19-67 SB PG V.Good
 
 
 
-
-Buy Piramal Enterprises; target of Rs 2400: Dynamic Levels 1650 UDD	66	65	66
 Buy Zuari Agro Chemicals; target of Rs 278: Edelweiss 211 UDD 		54	38	48
 
 Buy Shree Cements; target of Rs 19753: Edelweiss 15593 UDD 		65	60	63
