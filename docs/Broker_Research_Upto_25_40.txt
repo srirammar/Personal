@@ -22,10 +22,10 @@ Buy Suprajit Engineering; target of Rs 249: Axis Direct	185 DDD 	67	77	71  13-65
 Buy Techno Electric; target of Rs 445: Centrum	297 DDD 		42	77	55 15-65 OS  SB MS LS PG V.Good
 Buy Castrol India; target of Rs 567: Dolat Capital 375 DDD 		47	55	50 13-69 OS LB PG VV Good
 Buy Sadbhav Engineering; target of Rs 351: Prabhudas Lilladher 270 DDD 	22	56	35 19-67 SB PG V.Good
+Sit
 
 
-
-Buy Zuari Agro Chemicals; target of Rs 278: Edelweiss 211 UDD 		54	38	48
+Buy Zuari Agro Chemicals; target of Rs 278: Edelweiss 211 UDD 		54	38	48 PG VV Bad
 
 Buy Shree Cements; target of Rs 19753: Edelweiss 15593 UDD 		65	60	63
 Buy KPIT Technologies; target of Rs 180: Centrum 131 UDD 		26	60	39
