@@ -65,38 +65,36 @@ Buy Granules India; target of Rs 160: KR Choksey 108 DDD  		21	70	39 PG VV good
 
 Buy Salzer Electronics; target of Rs 252: Axis Direct	185 DDD		25	73	42 PG good
 
-Buy PNC Infratech; target of Rs 142: Geojit BNP Paribas 109 DDD 	37	89	56
+Buy PNC Infratech; target of Rs 142: Geojit BNP Paribas 109 DDD 	37	89	56 PG V good
 
-Buy Talbros Automotive; target of Rs 171: East India Securities 250 DDU  58	63	59
+Buy Talbros Automotive; target of Rs 171: East India Securities 250 DDU  58	63	59 PG k <10 CR
 
-Buy ICICI Bank; target of Rs 342: Edelweiss 255 DDD 			43	48	45
-
-
-
-Buy IRB Infrastructure; target of Rs 235: ICICI Direct 187 DDD 		16	66	34
-Buy Aurobindo Pharma; target of Rs 970: Axis Direct 740 DDD 		40	77	53
-Buy Container Corporation; target of Rs 1600: ICICI Direct 1160 DDD 29	43	34
+Buy ICICI Bank; target of Rs 342: Edelweiss 255 DDD 			43	48	45 PG V.good ~10000CR
 
 
 
-
-Buy SITI Networks; target of Rs 52: SPA Research 36 UUU 		63	72	66
-
-Buy Dilip Buildcon; target of Rs 310: Axis Direct 230 UUD 		36	63	46
-Buy Dish TV; target of Rs 115: Axis Direct 89 DDD 			46	56	50
+Buy IRB Infrastructure; target of Rs 235: ICICI Direct 187 DDD 		16	66	34  PG Good
+Buy Aurobindo Pharma; target of Rs 970: Axis Direct 740 DDD 		40	77	53 PG Good
+Buy Container Corporation; target of Rs 1600: ICICI Direct 1160 DDD 29	43	34 PG V good ~700CR
 
 
-Buy DB Corp; target of Rs 465: Motilal Oswal 365 DDD 			40	58	47
+
+
+Buy Dilip Buildcon; target of Rs 310: Axis Direct 230 UUD 		36	63	46 No data available
+Buy Dish TV; target of Rs 115: Axis Direct 89 DDD 			46	56	50  PG inconsistent (last year good profits)
+
+
+Buy DB Corp; target of Rs 465: Motilal Oswal 365 DDD 			40	58	47     Profit graph V good
 Buy Shemaroo Entertainment; target of Rs 475: Dolat Capital 370 UUU  	62	76	67
-Buy JK Tyre; target of Rs 165: Dynamic Levels 117 DDD 			64	57	61
-Accumulate INOX Leisure; target of Rs 302: Yes Securities 220 DDD	35	68	47  10-73 MS LS
+Buy JK Tyre; target of Rs 165: Dynamic Levels 117 DDD 			64	57	61 small cap ~50 CR P.G V good
+Accumulate INOX Leisure; target of Rs 302: Yes Securities 220 DDD	35	68	47  10-73 MS LS ~75 cr PG good
 
-Accumulate UPL; target of Rs 800: Yes Securities 625 DDD 		82 	70	77  21-46 LB OS
-Buy Federal Bank; target of Rs 88: Edelweiss 70 DDD 54	48	52  21-54 MB LB OS
-Buy Sarla Performance Fibers; target of Rs 83: Centrum 63 DDD  40	60	47  21-54 LB OS
-Buy United Breweries; target of Rs 1088: Motilal Oswal 866 UDD 	47	60	51 52-21 MB LB
-Buy United Spirits; target of Rs 2700: ICICI Direct 1894 UDDD 23	61	37  38-44 MB LS
-Buy Sun Pharmaceutical Industries; target of Rs 940: KR Choksey 706  UUD 41	75	53
+Accumulate UPL; target of Rs 800: Yes Securities 625 DDD 		82 	70	77  21-46 LB OS pG V good ~750 cr
+Buy Federal Bank; target of Rs 88: Edelweiss 70 DDD 54	48	52  21-54 MB LB OS PG good  500 CR(But sharp declinefrom 1500CR)
+Buy Sarla Performance Fibers; target of Rs 83: Centrum 63 DDD  40	60	47  21-54 LB OS   PG Good ~40 CR
+Buy United Breweries; target of Rs 1088: Motilal Oswal 866 UDD 	47	60	51 52-21 MB LB  PG good 295 cr
+Buy United Spirits; target of Rs 2700: ICICI Direct 1894 UDDD 23	61	37  38-44 MB LS PG V bad
+Buy Sun Pharmaceutical Industries; target of Rs 940: KR Choksey 706  UUD 41	75	53  in Losses from past 3 year
 Buy Balaji Amines; target of Rs 405: Nirmal Bang  311 	UDD	86	74	82 46-27 LB OS recovering
 Buy Deccan Cements; target of Rs 1290: Centrum 912 UDD 57	71	62 25-50 LB OS recovering
 Buy FIEM Industries; target of Rs 1475: Centrum 1144 DDD 59	74	65 42-31 OS LB recovering
